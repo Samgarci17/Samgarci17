@@ -1,6 +1,6 @@
 #👋 Hi there! I’m Samuel.
 
-<h3 align="center">I am an aspiring developer who enjoys **wrangling* data and creative game design. Always looking for new opportunities and ideas to broaden my skill set! 🗺️ </h3>
+<h3 align="center">I am an aspiring developer who enjoys wrangling data and creative game design. Always looking for new opportunities and ideas to broaden my skill set! 🗺️ </h3>
 
 ## ⭐ About Me:
 
